@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Cocoa, a fast-learner and interested in a lot of things!
+I'm Cocoa, I am interested in a lot of things!
 
 ### About me
 
