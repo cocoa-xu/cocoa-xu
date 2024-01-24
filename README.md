@@ -21,7 +21,7 @@ I'm Cocoa, I am interested in a lot of things!
 
     Providing EdgeTPU support such as Google Coral.
 
-    Forked from [google-coral/libedgetpu](https://github.com/google-coral/libedgetpu) and [google-coral/libcoral](https://github.com/google-coral/libcoral) respectively, independently maintained for multiply CPU architectures with latest TensorFlow version.
+    Forked from [google-coral/libedgetpu](https://github.com/google-coral/libedgetpu) and [google-coral/libcoral](https://github.com/google-coral/libcoral) respectively, independently maintained for multiple CPU architectures with latest TensorFlow version.
 
   - **[bazel-zig-cc](https://github.com/cocoa-xu/bazel-zig-cc)**
 
