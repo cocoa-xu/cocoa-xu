@@ -7,6 +7,8 @@ I'm Cocoa, I am interested in a lot of things!
 - My daily programming languages are C/C++, Elixir and Python.
 - I also use other languages/frameworks like Java(Type)Script/Phoneix/Vue.JS to build my own blog.
 
+[![Cocoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocoa-xu&theme=radical&show_icons=true)](https://github.com/cocoa-xu/github-readme-stats)
+
 ### Repositories maintained by me
 
 - **[evision](https://github.com/cocoa-xu/evision)**
