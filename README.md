@@ -9,7 +9,7 @@ I'm Cocoa, I am interested in a lot of things!
 
 <!-- [![Cocoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocoa-xu&theme=radical&show_icons=true)](https://github.com/cocoa-xu/github-readme-stats) -->
 
-| <a href="https://github.com/cocoa-xu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cocoa-xu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cocoa's github stats" /></a> | <a href="https://github.com/cocoa-xu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocoa-xu&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=cocoa-xu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cocoa's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocoa-xu&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 ### Repositories maintained by me
